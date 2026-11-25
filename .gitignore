@@ -1,0 +1,12 @@
+# Artefatos de compilação
+*.o
+*~
+lbp/src/lbp
+knn/src/knn
+bin/
+
+# Saídas geradas pelo programa lbp (make exemplo)
+resultados/
+
+# Dados (imagens PGM e arquivos de características) não são versionados
+data/
